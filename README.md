@@ -1,3 +1,5 @@
+<img src="images/hello.png"></img>
+
 <h1>Hi 👋, I'm Sarunas!</h1>
 <p>A Passionate Front-End Developer in Transition from Dental Hygienist</p>
 
