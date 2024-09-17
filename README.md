@@ -7,7 +7,7 @@
 
 ###
 
-📚 I'm currently studying at <a href="https://turingcollege.com">Turing College</a><br><br>
+📚 <a href="https://turingcollege.com">Turing College</a> grad!<br><br>
 🎯 <b>Goals:</b> To create beautifully simple and intuitive user interfaces that enhance user experience and make web interactions delightful. As a passionate front-end developer, I’m dedicated to blending aesthetics with functionality.
 <br><br>🎲 <b>Fun fact:</b> I swapped my dental tools for coding tools! After helping people achieve healthy smiles as a dental hygienist, I'm now crafting sleek, user-friendly web designs as a front-end developer. Who knew clean code could be as satisfying as a clean smile? 😄</p>
 
